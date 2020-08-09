@@ -6,7 +6,7 @@
 
 - Download [excalidraw-ui](ui.excalidrawlib).
 - Open [Excalidraw](https://excalidraw.com).
-- Open "Library" (or press "9").
+- Open library (or press "9").
 
 <img src="media/library.jpg" width="400">
 

@@ -8,7 +8,7 @@
 - Open [Excalidraw](https://excalidraw.com).
 - Open "Library" (or press "9").
 
-![](media/library.jpg)
+<img src="media/library.jpg" width="400">
 
 - Click on any element within the library and it will be added to your document.
 
@@ -16,52 +16,52 @@
 
 ### Buttons
 
-![](media/buttons.jpg)
+<img src="media/buttons.jpg" width="600">
 
 ### Avatars
 
-![](media/avatars.jpg)
+<img src="media/avatars.jpg" width="300">
 
 ### Text Input
 
-![](media/text-input.jpg)
+<img src="media/text-input.jpg" width="400">
 
 ### Search Input
 
-![](media/search-input.jpg)
+<img src="media/search-input.jpg" width="400">
 
 ### Tag Input
 
-![](media/tag-input.jpg)
+<img src="media/tag-input.jpg" width="400">
 
 ### Textarea
 
-![](media/textarea.jpg)
+<img src="media/textarea.jpg" width="400">
 
 ### Autocomplete
 
-![](media/autocomplete.jpg)
+<img src="media/autocomplete.jpg" width="400">
 
 ### Select Input
 
-![](media/select-input.jpg)
+<img src="media/select-input.jpg" width="400">
 
 ### "More" Menu
 
-![](media/more-menu.jpg)
+<img src="media/more-menu.jpg" width="400">
 
 ### Checkbox
 
-![](media/checkbox.jpg)
+<img src="media/checkbox.jpg" width="400">
 
 ### Radio
 
-![](media/radio.jpg)
+<img src="media/radio.jpg" width="400">
 
 ### Dialog
 
-![](media/dialog.jpg)
+<img src="media/dialog.jpg" width="600">
 
 ### Table
 
-![](media/table.jpg)
+<img src="media/table.jpg" width="600">
